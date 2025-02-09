@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate CS student on a journey to master coding, continuously sharpening my skills. Currently focused on learning and growing in Python-Django, with a future goal of mastering C#, Go, and C++. Excited to tackle new challenges and build impactful projects! 🚀
+I'm a passionate CS student on a journey to master coding, continuously sharpening my skills. Currently focused on learning and growing in Python-Django, with a future goal of mastering ML and maybe C++. Excited to tackle new challenges and build impactful projects! 🚀
 
 
 ## 🌐 Socials:
